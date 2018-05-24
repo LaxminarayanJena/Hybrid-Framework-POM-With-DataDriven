@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-I2FKUVF" name="com.crm.qa.testcases.LoginPageTest" tests="1" failures="0" timestamp="24 May 2018 18:23:21 GMT" time="34.393" errors="0">
+  <testcase name="loginTest" time="18.132" classname="com.crm.qa.testcases.LoginPageTest"/>
+</testsuite>
